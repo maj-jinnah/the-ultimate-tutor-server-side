@@ -14,5 +14,21 @@
         "Creator" : "Bjarne Stroustrup",
         "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bjarne-stroustrup_%28cropped%29.jpg",
         "image": "https://thumbs.dreamstime.com/b/moscow-russia-june-c-plus-logo-sign-program-code-background-illustrative-editorial-189667369.jpg"
+    },
+    {
+        "id": 3,
+        "title": " Python ",
+        "description": "Python is an object-oriented programming language created by Guido Rossum in 1989. It is ideally designed for rapid prototyping of complex applications. It has interfaces to many OS system calls and libraries and is extensible to C or C++. Many large companies use the Python programming language, including NASA, Google, YouTube, BitTorrent, etc. Python programming is widely used in Artificial Intelligence, Natural Language Generation, Neural Networks, and other advanced fields of Computer Science. Moreover, Python is one of the most demanded programming languages in the market, so there are huge job opportunities for candidates having knowledge of Python programming.",
+        "Creator" : "Guido Rossum",
+        "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Guido-portrait-2014-drc.jpg/1200px-Guido-portrait-2014-drc.jpg",
+        "image": "https://thumbs.dreamstime.com/b/moscow-russia-june-python-logo-sign-program-code-background-illustrative-editorial-189667652.jpg"
+    },
+    {
+        "id": 4,
+        "title": " C# ",
+        "description": "C# (C Sharp) is one of the most popular programming languages which is widely used for building Windows applications, mobile applications, and games. This course is taught in a practical GOAL oriented way to learn C# programming. It is recommended for you to practice the code assignments given after each C Sharp tutorial to learn C Sharp fast and easily. C# (C Sharp) is a general purpose, multi-paradigm programming language developed by Microsoft that runs on the .NET Framework. C# is widely used for building mobile applications, games and windows applications.",
+        "Creator" : "Anders Hejlsberg",
+        "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Anders_Hejlsberg.jpg/800px-Anders_Hejlsberg.jpg",
+        "image": "https://thumbs.dreamstime.com/b/c-sharp-sign-program-code-purple-background-programming-concept-coding-language-software-development-learning-training-246070273.jpg"
     }
 ]
