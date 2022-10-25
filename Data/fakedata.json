@@ -1,8 +1,18 @@
 [
     {
         "id": 1,
-        "title": "Mens Casual Premium Slim Fit T-Shirts ",
-        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+        "title": " C ",
+        "description": "The base or father of programming languages is 'ALGOL'. It was first introduced in 1960. 'ALGOL' was used on a large basis in European countries. 'ALGOL' introduced the concept of structured programming to the developer community. In 1967, a new computer programming language was announced called as 'BCPL' which stands for Basic Combined Programming Language. BCPL was designed and developed by Martin Richards, especially for writing system software. This was the era of programming languages. Just after three years, in 1970 a new programming language called 'B' was introduced by Ken Thompson that contained multiple features of 'BCPL'. This programming language was created using UNIX operating system at AT&T and Bell Laboratories. Both the 'BCPL' and 'B' were system programming languages. In 1972, a great computer scientist Dennis Ritchie created a new programming language called 'C' at the Bell Laboratories. It was created from 'ALGOL', 'BCPL' and 'B' programming languages. 'C' programming language contains all the features of these languages and many more additional concepts that make it unique from other languages. ",
+        "Creator" : "Dennis Ritchie",
+        "Creator img" : "https://www.guru99.com/images/1/012419_1229_WhatisCProg2.jpg",
+        "image": "https://qph.cf2.quoracdn.net/main-qimg-655c8b7900b83b8962162b784a8e5332"
+    },
+    {
+        "id": 2,
+        "title": " C++ ",
+        "description": "C++ is a general-purpose, object-oriented programming language. It was created by Bjarne Stroustrup at Bell Labs circa 1980. C++ is very similar to C (invented by Dennis Ritchie in the early 1970s). C++ is so compatible with C that it will probably compile over 99% of C programs without changing a line of source code. Though C++ is a lot of well-structured and safer language than C as it OOPs based. Some computer languages are written for a specific purpose. Like, Java was initially devised to control toasters and some other electronics. C was developed for programming OS. Pascal was conceptualized to teach proper programming techniques. But C++ is a general-purpose language. It well deserves the widely acknowledged nickname 'Swiss Pocket Knife of Languages'.",
+        "Creator" : "Bjarne Stroustrup",
+        "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bjarne-stroustrup_%28cropped%29.jpg",
+        "image": "https://thumbs.dreamstime.com/b/moscow-russia-june-c-plus-logo-sign-program-code-background-illustrative-editorial-189667369.jpg"
     }
 ]
