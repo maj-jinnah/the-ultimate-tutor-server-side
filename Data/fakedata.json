@@ -30,5 +30,21 @@
         "Creator" : "Anders Hejlsberg",
         "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Anders_Hejlsberg.jpg/800px-Anders_Hejlsberg.jpg",
         "image": "https://thumbs.dreamstime.com/b/c-sharp-sign-program-code-purple-background-programming-concept-coding-language-software-development-learning-training-246070273.jpg"
+    },
+    {
+        "id": 5,
+        "title": " PHP ",
+        "description": "PHP is the most popular scripting language on the web. Without PHP Facebook, Yahoo, Google wouldn't have exist. The course is geared to make you a PHP pro. Once you digest all basics, the course will help you create your very own Opinion Poll application. PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages. PHP scripts can only be interpreted on a server that has PHP installed. The client computers accessing the PHP scripts require a web browser only. A PHP file contains PHP tags and ends with the extension '.php'",
+        "Creator" : "Rasmus Lerdorf",
+        "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rasmus_Lerdorf_August_2014_%28cropped%29.JPG/1280px-Rasmus_Lerdorf_August_2014_%28cropped%29.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png"
+    },
+    {
+        "id": 6,
+        "title": " Java Script ",
+        "description": "JavaScript is a very powerful client-side scripting language. JavaScript is used mainly for enhancing the interaction of a user with the webpage. In other words, you can make your webpage more lively and interactive, with the help of JavaScript. JavaScript is also being used widely in game development and Mobile application development. JavaScript was developed by Brendan Eich in 1995, which appeared in Netscape, a popular browser of that time. The language was initially called LiveScript and was later renamed JavaScript. There are many programmers who think that JavaScript and Java are the same. In fact, JavaScript and Java are very much unrelated. Java is a very complex programming language whereas JavaScript is only a scripting language. The syntax of JavaScript is mostly influenced by the programming language C.",
+        "Creator" : "Brendan Eich",
+        "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg/800px-Brendan_Eich_Mozilla_Foundation_official_photo.jpg",
+        "image": "https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"
     }
 ]
