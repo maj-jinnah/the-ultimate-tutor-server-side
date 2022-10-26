@@ -3,6 +3,7 @@
         "id": 1,
         "title": " C ",
         "description": "The base or father of programming languages is 'ALGOL'. It was first introduced in 1960. 'ALGOL' was used on a large basis in European countries. 'ALGOL' introduced the concept of structured programming to the developer community. In 1967, a new computer programming language was announced called as 'BCPL' which stands for Basic Combined Programming Language. BCPL was designed and developed by Martin Richards, especially for writing system software. This was the era of programming languages. Just after three years, in 1970 a new programming language called 'B' was introduced by Ken Thompson that contained multiple features of 'BCPL'. This programming language was created using UNIX operating system at AT&T and Bell Laboratories. Both the 'BCPL' and 'B' were system programming languages. In 1972, a great computer scientist Dennis Ritchie created a new programming language called 'C' at the Bell Laboratories. It was created from 'ALGOL', 'BCPL' and 'B' programming languages. 'C' programming language contains all the features of these languages and many more additional concepts that make it unique from other languages. ",
+        "Price": "10 taka",
         "Creator" : "Dennis Ritchie",
         "Creator img" : "https://www.guru99.com/images/1/012419_1229_WhatisCProg2.jpg",
         "image": "https://qph.cf2.quoracdn.net/main-qimg-655c8b7900b83b8962162b784a8e5332"
@@ -11,6 +12,7 @@
         "id": 2,
         "title": " C++ ",
         "description": "C++ is a general-purpose, object-oriented programming language. It was created by Bjarne Stroustrup at Bell Labs circa 1980. C++ is very similar to C (invented by Dennis Ritchie in the early 1970s). C++ is so compatible with C that it will probably compile over 99% of C programs without changing a line of source code. Though C++ is a lot of well-structured and safer language than C as it OOPs based. Some computer languages are written for a specific purpose. Like, Java was initially devised to control toasters and some other electronics. C was developed for programming OS. Pascal was conceptualized to teach proper programming techniques. But C++ is a general-purpose language. It well deserves the widely acknowledged nickname 'Swiss Pocket Knife of Languages'.",
+        "Price": "10 taka",
         "Creator" : "Bjarne Stroustrup",
         "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bjarne-stroustrup_%28cropped%29.jpg",
         "image": "https://thumbs.dreamstime.com/b/moscow-russia-june-c-plus-logo-sign-program-code-background-illustrative-editorial-189667369.jpg"
@@ -19,6 +21,7 @@
         "id": 3,
         "title": " Python ",
         "description": "Python is an object-oriented programming language created by Guido Rossum in 1989. It is ideally designed for rapid prototyping of complex applications. It has interfaces to many OS system calls and libraries and is extensible to C or C++. Many large companies use the Python programming language, including NASA, Google, YouTube, BitTorrent, etc. Python programming is widely used in Artificial Intelligence, Natural Language Generation, Neural Networks, and other advanced fields of Computer Science. Moreover, Python is one of the most demanded programming languages in the market, so there are huge job opportunities for candidates having knowledge of Python programming.",
+        "Price": "10 taka",
         "Creator" : "Guido Rossum",
         "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Guido-portrait-2014-drc.jpg/1200px-Guido-portrait-2014-drc.jpg",
         "image": "https://thumbs.dreamstime.com/b/moscow-russia-june-python-logo-sign-program-code-background-illustrative-editorial-189667652.jpg"
@@ -27,6 +30,7 @@
         "id": 4,
         "title": " C# ",
         "description": "C# (C Sharp) is one of the most popular programming languages which is widely used for building Windows applications, mobile applications, and games. This course is taught in a practical GOAL oriented way to learn C# programming. It is recommended for you to practice the code assignments given after each C Sharp tutorial to learn C Sharp fast and easily. C# (C Sharp) is a general purpose, multi-paradigm programming language developed by Microsoft that runs on the .NET Framework. C# is widely used for building mobile applications, games and windows applications.",
+        "Price": "10 taka",
         "Creator" : "Anders Hejlsberg",
         "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Anders_Hejlsberg.jpg/800px-Anders_Hejlsberg.jpg",
         "image": "https://thumbs.dreamstime.com/b/c-sharp-sign-program-code-purple-background-programming-concept-coding-language-software-development-learning-training-246070273.jpg"
@@ -35,6 +39,7 @@
         "id": 5,
         "title": " PHP ",
         "description": "PHP is the most popular scripting language on the web. Without PHP Facebook, Yahoo, Google wouldn't have exist. The course is geared to make you a PHP pro. Once you digest all basics, the course will help you create your very own Opinion Poll application. PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages. PHP scripts can only be interpreted on a server that has PHP installed. The client computers accessing the PHP scripts require a web browser only. A PHP file contains PHP tags and ends with the extension '.php'",
+        "Price": "10 taka",
         "Creator" : "Rasmus Lerdorf",
         "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rasmus_Lerdorf_August_2014_%28cropped%29.JPG/1280px-Rasmus_Lerdorf_August_2014_%28cropped%29.JPG",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png"
@@ -43,6 +48,7 @@
         "id": 6,
         "title": " Java Script ",
         "description": "JavaScript is a very powerful client-side scripting language. JavaScript is used mainly for enhancing the interaction of a user with the webpage. In other words, you can make your webpage more lively and interactive, with the help of JavaScript. JavaScript is also being used widely in game development and Mobile application development. JavaScript was developed by Brendan Eich in 1995, which appeared in Netscape, a popular browser of that time. The language was initially called LiveScript and was later renamed JavaScript. There are many programmers who think that JavaScript and Java are the same. In fact, JavaScript and Java are very much unrelated. Java is a very complex programming language whereas JavaScript is only a scripting language. The syntax of JavaScript is mostly influenced by the programming language C.",
+        "Price": "10 taka",
         "Creator" : "Brendan Eich",
         "Creator img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg/800px-Brendan_Eich_Mozilla_Foundation_official_photo.jpg",
         "image": "https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"
